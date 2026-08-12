@@ -1,1 +1,130 @@
+<div align="center">
 
+# Hi, I'm Sarvagya Chaturvedi 👋
+
+### B.E. CSE (IoT & Cybersecurity including Blockchain Technology) @ Dayananda Sagar College of Engineering
+
+<a href="mailto:sarvagya0624@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://linkedin.com/in/YOUR-LINKEDIN-HANDLE"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/Sarvagya-24-chaturvedi"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+</div>
+
+---
+
+### 🧑‍💻 About Me
+
+- 🎓 Currently pursuing **B.E. in Computer Science & Engineering (IoT & Cybersecurity including Blockchain Technology)**, CGPA **9.11**
+- 🔐 Deep interest in **cybersecurity, cryptanalysis, and CTF competitions**
+- ⛓️ Building at the intersection of **blockchain, systems programming, and full-stack web development**
+- 📄 Co-inventor on a filed Indian patent — *"Decentralized System and Method for Lifecycle Governance of Carbon Assets via Smart Contracts and Cryptographic Verification"* (App No. 202641027095 A)
+- 📜 Certified in **Oracle Cloud Infrastructure Foundations Associate**, and completed ISRO/IIRS programs in Space Science Research and Geo-data Sharing & Cyber Security
+
+---
+
+### 🛠️ Tech Stack
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
+![Verilog](https://img.shields.io/badge/Verilog-005A9C?style=flat-square)
+
+**Web & Backend**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+**Blockchain & Tools**
+
+![Solana](https://img.shields.io/badge/Solana-9945FF?style=flat-square&logo=solana&logoColor=white)
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
+![Hardhat](https://img.shields.io/badge/Hardhat-FFF100?style=flat-square)
+![IPFS](https://img.shields.io/badge/IPFS-65C2CB?style=flat-square&logo=ipfs&logoColor=white)
+![MetaMask](https://img.shields.io/badge/MetaMask-F6851B?style=flat-square&logo=metamask&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+---
+
+### 📌 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**[Carbon Credit Trading Platform](https://github.com/Sarvagya-24-chaturvedi/Carbon-credit)**
+
+Decentralized platform for transparent carbon credit trading. Smart contracts automate credit issuance, transfer, and verification with role-based access for companies, verifiers, and regulators. Includes a real-time dashboard and an emission calculator.
+
+`TypeScript` `React` `Node.js` `Solidity` `Ethereum/Polygon` `MongoDB` `IPFS`
+
+</td>
+<td width="50%" valign="top">
+
+**[Proof of Human Work](https://github.com/Sarvagya-24-chaturvedi/Proof-of-Human-Work)**
+
+Decentralized micro-task marketplace on Solana. Organizations lock SOL in escrow; workers complete tasks under liveness detection and behavioral integrity monitoring; payment releases trustlessly on-chain with reputation tracking.
+
+`React` `TypeScript` `Solana` `Anchor` `Supabase` `IPFS`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[CacheMap Web Simulator](https://github.com/Sarvagya-24-chaturvedi/Cache-Memory-Simulator)**
+
+Full-stack educational tool for visualizing CPU cache memory with dual-engine simulation — a Python software model (LRU/FIFO) and an actual Verilog hardware testbench via Icarus Verilog, with an interactive SVG logic circuit and WaveDrom timing viewer.
+
+`Python` `Flask` `JavaScript` `Verilog` `Icarus Verilog` `WaveDrom`
+
+</td>
+<td width="50%" valign="top">
+
+**[Campus WiFi Load Balancer](https://github.com/Sarvagya-24-chaturvedi/campus-wifi-load-balancer)**
+
+Real-time simulation of campus network traffic using Weighted Least Load and Round Robin scheduling. Demonstrates server failover and measures distribution fairness using Jain's Fairness Index.
+
+`Python`
+
+</td>
+</tr>
+</table>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Sarvagya-24-chaturvedi&show_icons=true&theme=default&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarvagya-24-chaturvedi&layout=compact&hide_border=true" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sarvagya-24-chaturvedi&hide_border=true" />
+
+</div>
+
+---
+
+### 🏆 Certifications
+
+- **Oracle Cloud Infrastructure Foundations Associate** — Oracle, Aug 2025
+- **The Method of Space Science Research** — IIRS, ISRO, Jun 2025
+- **Geo-data Sharing and Cyber Security** — IIRS, ISRO, Jan 2025
+
+---
+
+<div align="center">
+
+📫 Reach me at **sarvagya0624@gmail.com**
+
+</div>
