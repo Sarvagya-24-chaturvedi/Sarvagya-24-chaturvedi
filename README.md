@@ -112,22 +112,7 @@ Real-time simulation of campus network traffic using Weighted Least Load and Rou
 
 ### 📊 GitHub Stats
 
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Sarvagya-24-chaturvedi&show_icons=true&theme=default&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarvagya-24-chaturvedi&layout=compact&hide_border=true" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sarvagya-24-chaturvedi&hide_border=true" />
-
-</div>
-
----
-
-### 🏆 Certifications
-
-- **Oracle Cloud Infrastructure Foundations Associate** — Oracle, Aug 2025
-- **The Method of Space Science Research** — IIRS, ISRO, Jun 2025
-- **Geo-data Sharing and Cyber Security** — IIRS, ISRO, Jan 2025
+<div align="center"> <img height="165" src="https://github-stats-extended.vercel.app/api?username=Sarvagya-24-chaturvedi&show_icons=true&theme=default&hide_border=true&count_private=true" /> <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Sarvagya-24-chaturvedi&layout=compact&hide_border=true" /> <img src="https://streak-stats.demolab.com/?user=Sarvagya-24-chaturvedi&hide_border=true" /> </div>
 
 ---
 
