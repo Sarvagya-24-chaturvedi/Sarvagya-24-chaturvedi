@@ -2,8 +2,6 @@
 
 # Hi, I'm Sarvagya Chaturvedi 👋
 
-### B.E. CSE (IoT & Cybersecurity including Blockchain Technology) @ Dayananda Sagar College of Engineering
-
 <a href="mailto:sarvagya0624@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://linkedin.com/in/YOUR-LINKEDIN-HANDLE"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://github.com/Sarvagya-24-chaturvedi"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
@@ -17,6 +15,7 @@
 - 🎓 Currently pursuing **B.E. in Computer Science & Engineering (IoT & Cybersecurity including Blockchain Technology)**, CGPA **9.11**
 - 🔐 Deep interest in **cybersecurity, cryptanalysis, and CTF competitions**
 - ⛓️ Building at the intersection of **blockchain, systems programming, and full-stack web development**
+- ⚙️ Comfortable shipping projects end-to-end — containerized, CI-tested, and monitored, not just running locally
 - 📄 Co-inventor on a filed Indian patent — *"Decentralized System and Method for Lifecycle Governance of Carbon Assets via Smart Contracts and Cryptographic Verification"* (App No. 202641027095 A)
 - 📜 Certified in **Oracle Cloud Infrastructure Foundations Associate**, and completed ISRO/IIRS programs in Space Science Research and Geo-data Sharing & Cyber Security
 
@@ -42,6 +41,15 @@
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+**DevOps & Cloud**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![OCI](https://img.shields.io/badge/Oracle_Cloud-F80000?style=flat-square&logo=oracle&logoColor=white)
 
 **Blockchain & Tools**
 
@@ -83,9 +91,9 @@ Decentralized micro-task marketplace on Solana. Organizations lock SOL in escrow
 
 **[CacheMap Web Simulator](https://github.com/Sarvagya-24-chaturvedi/Cache-Memory-Simulator)**
 
-Full-stack educational tool for visualizing CPU cache memory with dual-engine simulation — a Python software model (LRU/FIFO) and an actual Verilog hardware testbench via Icarus Verilog, with an interactive SVG logic circuit and WaveDrom timing viewer.
+Full-stack educational tool for visualizing CPU cache memory with dual-engine simulation — a Python software model (LRU/FIFO, L1/L2 hierarchy) and an actual Verilog hardware testbench via Icarus Verilog, with an interactive SVG logic circuit and WaveDrom timing viewer. Containerized with Docker Compose (Nginx reverse proxy, Prometheus, Grafana) and built on a GitHub Actions CI pipeline.
 
-`Python` `Flask` `JavaScript` `Verilog` `Icarus Verilog` `WaveDrom`
+`Python` `Flask` `JavaScript` `Verilog` `Icarus Verilog` `Docker` `Nginx` `Prometheus` `Grafana`
 
 </td>
 <td width="50%" valign="top">
