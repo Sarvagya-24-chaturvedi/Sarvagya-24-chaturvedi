@@ -12,7 +12,7 @@
 
 ### 🧑‍💻 About Me
 
-- 🎓 Currently pursuing **B.E. in Computer Science & Engineering (IoT & Cybersecurity including Blockchain Technology)**, CGPA **9.11**
+- 🎓 Currently pursuing **B.E. in Computer Science & Engineering (IoT & Cybersecurity including Blockchain Technology)**, CGPA **9.2**
 - ⛓️ Building at the intersection of **blockchain, systems programming, and full-stack web development**
 - ⚙️ Comfortable shipping projects end-to-end — containerized, CI-tested, and monitored, not just running locally
 - 📄 Co-inventor on a filed Indian patent — *"Decentralized System and Method for Lifecycle Governance of Carbon Assets via Smart Contracts and Cryptographic Verification"* (App No. 202641027095 A)
