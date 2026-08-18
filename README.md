@@ -4,6 +4,7 @@
 
 <a href="mailto:sarvagya0624@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://linkedin.com/in/YOUR-LINKEDIN-HANDLE"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+
 <a href="https://github.com/Sarvagya-24-chaturvedi"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 </div>
@@ -102,6 +103,20 @@ Full-stack educational tool for visualizing CPU cache memory with dual-engine si
 Real-time simulation of campus network traffic using Weighted Least Load and Round Robin scheduling. Demonstrates server failover and measures distribution fairness using Jain's Fairness Index.
 
 `Python`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[FinliT](https://github.com/Sarvagya-24-chaturvedi/FinliT)**
+
+Gamified FinTech platform that teaches Gen Z financial literacy through interactive lessons, quizzes, and challenges, while introducing micro-investing via simulated transaction round-ups and student-friendly investment portfolios. [Live demo →](https://finli-t.vercel.app/)
+
+`TypeScript` `React` `Vite` `Tailwind CSS` `Framer Motion` `Recharts`
+
+</td>
+<td width="50%" valign="top">
 
 </td>
 </tr>
