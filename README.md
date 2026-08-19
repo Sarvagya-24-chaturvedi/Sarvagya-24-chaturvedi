@@ -97,17 +97,6 @@ Full-stack educational tool for visualizing CPU cache memory with dual-engine si
 </td>
 <td width="50%" valign="top">
 
-**[Campus WiFi Load Balancer](https://github.com/Sarvagya-24-chaturvedi/campus-wifi-load-balancer)**
-
-Real-time simulation of campus network traffic using Weighted Least Load and Round Robin scheduling. Demonstrates server failover and measures distribution fairness using Jain's Fairness Index.
-
-`Python`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
 **[FinliT](https://github.com/Sarvagya-24-chaturvedi/FinliT)**
 
 Gamified FinTech platform that teaches Gen Z financial literacy through interactive lessons, quizzes, and challenges, while introducing micro-investing via simulated transaction round-ups and student-friendly investment portfolios. [Live demo →](https://finli-t.vercel.app/)
