@@ -104,9 +104,6 @@ Gamified FinTech platform that teaches Gen Z financial literacy through interact
 `TypeScript` `React` `Vite` `Tailwind CSS` `Framer Motion` `Recharts`
 
 </td>
-<td width="50%" valign="top">
-
-</td>
 </tr>
 </table>
 
