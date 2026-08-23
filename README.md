@@ -158,7 +158,7 @@ Gamified FinTech platform that teaches Gen Z financial literacy through interact
 
 ### 📫 Let's Connect
 
-**[Email](mailto:sarvagya0624@gmail.com)** · **[LinkedIn](https://linkedin.com/in/YOUR-LINKEDIN-HANDLE)** · **[GitHub](https://github.com/Sarvagya-24-chaturvedi)** · **[Portfolio](https://portfolio-website-brown-nine-62.vercel.app/)**
+**[Email](mailto:sarvagya0624@gmail.com)** · **[LinkedIn](https://linkedin.com/in/YOUR-LINKEDIN-HANDLE)** · **[GitHub](https://github.com/Sarvagya-24-chaturvedi)** · **[Portfolio](https://sarvagyachaturvedi.vercel.app/)**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:6366F1&height=100&section=footer" width="100%"/>
 
