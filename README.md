@@ -9,7 +9,7 @@
 <a href="mailto:sarvagya0624@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://linkedin.com/in/YOUR-LINKEDIN-HANDLE"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://github.com/Sarvagya-24-chaturvedi"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://portfolio-sarvagya-chaturvedi.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://sarvagyachaturvedi.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 
 <img src="https://komarev.com/ghpvc/?username=Sarvagya-24-chaturvedi&style=for-the-badge&color=6366F1&label=PROFILE+VIEWS" />
 
@@ -26,7 +26,7 @@
 - ⚙️ Comfortable shipping projects end-to-end — containerized, CI-tested, and monitored, not just running locally
 - 📄 Co-inventor on a filed Indian patent — *"Decentralized System and Method for Lifecycle Governance of Carbon Assets via Smart Contracts and Cryptographic Verification"* (App No. 202641027095 A)
 - 📜 Certified in **Oracle Cloud Infrastructure Foundations Associate**
-- 🌐 Check out my work at my **[portfolio site](https://portfolio-website-brown-nine-62.vercel.app/)**
+- 🌐 Check out my work at my **[portfolio site](https://sarvagyachaturvedi.vercel.app/)**
 
 <br clear="right"/>
 
