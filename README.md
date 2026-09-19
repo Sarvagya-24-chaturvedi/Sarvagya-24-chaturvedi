@@ -167,15 +167,19 @@ A system for distributing and balancing campus WiFi load across access points, a
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sarvagya-24-chaturvedi&theme=redical&hide_border=true" />
+<!-- GitHub Activity Graph (Fixed typo: theme=radical) -->
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sarvagya-24-chaturvedi&theme=radical&hide_border=true&area=true&cache_seconds=1800" alt="Activity Graph" />
 
-<br/>
+<br/><br/>
 
-<img src="https://streak-stats.demolab.com/?user=Sarvagya-24-chaturvedi&theme=radical&hide_border=true" />
+<!-- Main Stats & Streak Stats (Side-by-Side) -->
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sarvagya-24-chaturvedi&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800" alt="GitHub Stats" />
+  <img height="180em" src="https://streak-stats.demolab.com/?user=Sarvagya-24-chaturvedi&theme=radical&hide_border=true&cache_seconds=1800" alt="Streak Stats" />
+</p>
 
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarvagya-24-chaturvedi&layout=compact&theme=radical&hide_border=true&langs_count=8" />
+<!-- Top Languages Card -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarvagya-24-chaturvedi&layout=compact&theme=radical&hide_border=true&langs_count=8&cache_seconds=1800" alt="Top Languages" />
 
 </div>
 
