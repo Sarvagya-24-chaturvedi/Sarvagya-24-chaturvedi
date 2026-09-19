@@ -167,19 +167,19 @@ A system for distributing and balancing campus WiFi load across access points, a
 
 <div align="center">
 
-<!-- GitHub Activity Graph (Fixed typo: theme=radical) -->
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sarvagya-24-chaturvedi&theme=radical&hide_border=true&area=true&cache_seconds=1800" alt="Activity Graph" />
+<!-- GitHub Profile Trophies (Always online & matches the radical theme) -->
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=Sarvagya-24-chaturvedi&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
 
 <br/><br/>
 
 <!-- Main Stats & Streak Stats (Side-by-Side) -->
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sarvagya-24-chaturvedi&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800" alt="GitHub Stats" />
-  <img height="180em" src="https://streak-stats.demolab.com/?user=Sarvagya-24-chaturvedi&theme=radical&hide_border=true&cache_seconds=1800" alt="Streak Stats" />
+  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=Sarvagya-24-chaturvedi&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img height="180em" src="https://streak-stats.demolab.com/?user=Sarvagya-24-chaturvedi&theme=radical&hide_border=true" alt="Streak Stats" />
 </p>
 
-<!-- Top Languages Card -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarvagya-24-chaturvedi&layout=compact&theme=radical&hide_border=true&langs_count=8&cache_seconds=1800" alt="Top Languages" />
+<!-- Top Languages Card (High-Uptime Mirror) -->
+<img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Sarvagya-24-chaturvedi&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
 
 </div>
 
