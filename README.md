@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:06B6D4&height=200&section=header&text=Sarvagya%20Chaturvedi&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Blockchain%20%7C%20Full-Stack%20%7C%20DevOps&descAlignY=58&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Building+on+the+blockchain;Shipping+full-stack+web+apps;Containerized%2C+CI-tested%2C+monitored;CS+%26+Cybersecurity+Student" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Building+on+the+blockchain+%E2%9B%93%EF%B8%8F;Shipping+full-stack+web+apps+%F0%9F%9A%80;Containerized%2C+CI-tested%2C+monitored+%E2%9A%99%EF%B8%8F;CS+%26+Cybersecurity+Student+%F0%9F%8E%93" alt="Typing SVG" />
 
 <br/>
 
@@ -17,22 +17,22 @@
 
 <br/>
 
-## About Me
+## 🧑‍💻 About Me
 
 <img align="right" width="280" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 
-- Currently pursuing **B.E. in Computer Science & Engineering (IoT & Cybersecurity including Blockchain Technology)** at Dayananda Sagar College of Engineering — CGPA **9.2**
-- Building at the intersection of **blockchain, systems programming, and full-stack web development**
-- Comfortable shipping projects end-to-end — containerized, CI-tested, and monitored, not just running locally
-- Co-inventor on a filed Indian patent — *"Decentralized System and Method for Lifecycle Governance of Carbon Assets via Smart Contracts and Cryptographic Verification"* (App No. 202641027095 A)
-- Certified in **Oracle Cloud Infrastructure Foundations Associate**
-- Check out my work at my **[portfolio site](https://sarvagyachaturvedi.vercel.app/)**
+- 🎓 Currently pursuing **B.E. in Computer Science & Engineering (IoT & Cybersecurity including Blockchain Technology)** at Dayananda Sagar College of Engineering — CGPA **9.2**
+- ⛓️ Building at the intersection of **blockchain, systems programming, and full-stack web development**
+- ⚙️ Comfortable shipping projects end-to-end — containerized, CI-tested, and monitored, not just running locally
+- 📄 Co-inventor on a filed Indian patent — *"Decentralized System and Method for Lifecycle Governance of Carbon Assets via Smart Contracts and Cryptographic Verification"* (App No. 202641027095 A)
+- 📜 Certified in **Oracle Cloud Infrastructure Foundations Associate**
+- 🌐 Check out my work at my **[portfolio site](https://sarvagyachaturvedi.vercel.app/)**
 
 <br clear="right"/>
 
 ---
 
-## Tech Stack
+## 🛠️ Tech Stack
 
 <div align="center">
 
@@ -163,23 +163,16 @@ A system for distributing and balancing campus WiFi load across access points, a
 
 ---
 
-## GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
-<!-- GitHub Profile Trophies (Always online & matches the radical theme) -->
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=Sarvagya-24-chaturvedi&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=Sarvagya-24-chaturvedi&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Sarvagya-24-chaturvedi&layout=compact&theme=radical&hide_border=true" />
 
-<br/><br/>
+<br/>
 
-<!-- Main Stats & Streak Stats (Side-by-Side) -->
-<p align="center">
-  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=Sarvagya-24-chaturvedi&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="180em" src="https://streak-stats.demolab.com/?user=Sarvagya-24-chaturvedi&theme=radical&hide_border=true" alt="Streak Stats" />
-</p>
-
-<!-- Top Languages Card (High-Uptime Mirror) -->
-<img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Sarvagya-24-chaturvedi&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
+<img src="https://streak-stats.demolab.com/?user=Sarvagya-24-chaturvedi&theme=radical&hide_border=true" />
 
 </div>
 
@@ -187,7 +180,7 @@ A system for distributing and balancing campus WiFi load across access points, a
 
 <div align="center">
 
-### Let's Connect
+### 📫 Let's Connect
 
 **[Email](mailto:sarvagya0624@gmail.com)** · **[LinkedIn](https://linkedin.com/in/YOUR-LINKEDIN-HANDLE)** · **[GitHub](https://github.com/Sarvagya-24-chaturvedi)** · **[Portfolio](https://sarvagyachaturvedi.vercel.app/)**
 
