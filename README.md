@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:06B6D4&height=200&section=header&text=Sarvagya%20Chaturvedi&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Blockchain%20%7C%20Full-Stack%20%7C%20DevOps&descAlignY=58&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Building+on+the+blockchain+%E2%9B%93%EF%B8%8F;Shipping+full-stack+web+apps+%F0%9F%9A%80;Containerized%2C+CI-tested%2C+monitored+%E2%9A%99%EF%B8%8F;CS+%26+Cybersecurity+Student+%F0%9F%8E%93" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Building+on+the+blockchain;Shipping+full-stack+web+apps;Containerized%2C+CI-tested%2C+monitored;CS+%26+Cybersecurity+Student" alt="Typing SVG" />
 
 <br/>
 
@@ -17,22 +17,22 @@
 
 <br/>
 
-## 🧑‍💻 About Me
+## About Me
 
 <img align="right" width="280" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 
-- 🎓 Currently pursuing **B.E. in Computer Science & Engineering (IoT & Cybersecurity including Blockchain Technology)** at Dayananda Sagar College of Engineering — CGPA **9.2**
-- ⛓️ Building at the intersection of **blockchain, systems programming, and full-stack web development**
-- ⚙️ Comfortable shipping projects end-to-end — containerized, CI-tested, and monitored, not just running locally
-- 📄 Co-inventor on a filed Indian patent — *"Decentralized System and Method for Lifecycle Governance of Carbon Assets via Smart Contracts and Cryptographic Verification"* (App No. 202641027095 A)
-- 📜 Certified in **Oracle Cloud Infrastructure Foundations Associate**
-- 🌐 Check out my work at my **[portfolio site](https://sarvagyachaturvedi.vercel.app/)**
+- Currently pursuing **B.E. in Computer Science & Engineering (IoT & Cybersecurity including Blockchain Technology)** at Dayananda Sagar College of Engineering — CGPA **9.2**
+- Building at the intersection of **blockchain, systems programming, and full-stack web development**
+- Comfortable shipping projects end-to-end — containerized, CI-tested, and monitored, not just running locally
+- Co-inventor on a filed Indian patent — *"Decentralized System and Method for Lifecycle Governance of Carbon Assets via Smart Contracts and Cryptographic Verification"* (App No. 202641027095 A)
+- Certified in **Oracle Cloud Infrastructure Foundations Associate**
+- Check out my work at my **[portfolio site](https://sarvagyachaturvedi.vercel.app/)**
 
 <br clear="right"/>
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -78,13 +78,13 @@
 
 ---
 
-## 📌 Featured Projects
+## Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🌱 [Carbon Credit Trading Platform](https://github.com/Sarvagya-24-chaturvedi/Carbon-credit)
+### [Carbon Credit Trading Platform](https://github.com/Sarvagya-24-chaturvedi/Carbon-credit)
 
 Decentralized platform for transparent carbon credit trading. Smart contracts automate credit issuance, transfer, and verification with role-based access for companies, verifiers, and regulators. Includes a real-time dashboard and an emission calculator.
 
@@ -96,7 +96,7 @@ Decentralized platform for transparent carbon credit trading. Smart contracts au
 </td>
 <td width="50%" valign="top">
 
-### 🤝 [Proof of Human Work](https://github.com/Sarvagya-24-chaturvedi/Proof-of-Human-Work)
+### [Proof of Human Work](https://github.com/Sarvagya-24-chaturvedi/Proof-of-Human-Work)
 
 Decentralized micro-task marketplace on Solana. Organizations lock SOL in escrow; workers complete tasks under liveness detection and behavioral integrity monitoring; payment releases trustlessly on-chain with reputation tracking.
 
@@ -110,7 +110,7 @@ Decentralized micro-task marketplace on Solana. Organizations lock SOL in escrow
 <tr>
 <td width="50%" valign="top">
 
-### 🗄️ [CacheMap Web Simulator](https://github.com/Sarvagya-24-chaturvedi/Cache-Memory-Simulator)
+### [CacheMap Web Simulator](https://github.com/Sarvagya-24-chaturvedi/Cache-Memory-Simulator)
 
 Full-stack educational tool for visualizing CPU cache memory with dual-engine simulation — a Python software model (LRU/FIFO, L1/L2 hierarchy) and an actual Verilog hardware testbench via Icarus Verilog, with an interactive SVG logic circuit and WaveDrom timing viewer. Containerized with Docker Compose (Nginx, Prometheus, Grafana) and built on a GitHub Actions CI pipeline.
 
@@ -122,11 +122,11 @@ Full-stack educational tool for visualizing CPU cache memory with dual-engine si
 </td>
 <td width="50%" valign="top">
 
-### 💰 [FinliT](https://github.com/Sarvagya-24-chaturvedi/FinliT)
+### [FinliT](https://github.com/Sarvagya-24-chaturvedi/FinliT)
 
 Gamified FinTech platform that teaches Gen Z financial literacy through interactive lessons, quizzes, and challenges, while introducing micro-investing via simulated transaction round-ups and student-friendly investment portfolios.
 
-**[🔗 Live demo](https://finli-t.vercel.app/)**
+**[Live demo](https://finli-t.vercel.app/)**
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
@@ -135,20 +135,47 @@ Gamified FinTech platform that teaches Gen Z financial literacy through interact
 
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+
+### [PrivacyVision](https://github.com/Sarvagya-24-chaturvedi/PrivacyVision)
+
+Privacy-preserving browser agent built as a Chrome Extension (Manifest V3). On-device detectors (DOM semantic, regex, local vision/WebGPU/WASM, OCR, face) feed a risk-scoring engine and offscreen-canvas redactor, with sanitized DOM/visual data sent to a FastAPI server running VLM reasoning behind a validated action layer.
+
+![Chrome Extension](https://img.shields.io/badge/-Chrome_Extension-4285F4?style=flat-square&logo=googlechrome&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![WebGPU](https://img.shields.io/badge/-WebGPU-005A9C?style=flat-square)
+![WASM](https://img.shields.io/badge/-WebAssembly-654FF0?style=flat-square&logo=webassembly&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+### [Campus WiFi Load Balancer](https://github.com/Sarvagya-24-chaturvedi/campus-wifi-load-balancer)
+
+A system for distributing and balancing campus WiFi load across access points, aimed at improving reliability and cutting congestion during peak usage.
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Networking](https://img.shields.io/badge/-Networking-005A9C?style=flat-square)
+
+</td>
+</tr>
 </table>
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
-<img height="165" src="https://github-stats-extended.vercel.app/api?username=Sarvagya-24-chaturvedi&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Sarvagya-24-chaturvedi&layout=compact&theme=radical&hide_border=true" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sarvagya-24-chaturvedi&theme=redical&hide_border=true" />
 
 <br/>
 
 <img src="https://streak-stats.demolab.com/?user=Sarvagya-24-chaturvedi&theme=radical&hide_border=true" />
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarvagya-24-chaturvedi&layout=compact&theme=radical&hide_border=true&langs_count=8" />
 
 </div>
 
@@ -156,7 +183,7 @@ Gamified FinTech platform that teaches Gen Z financial literacy through interact
 
 <div align="center">
 
-### 📫 Let's Connect
+### Let's Connect
 
 **[Email](mailto:sarvagya0624@gmail.com)** · **[LinkedIn](https://linkedin.com/in/YOUR-LINKEDIN-HANDLE)** · **[GitHub](https://github.com/Sarvagya-24-chaturvedi)** · **[Portfolio](https://sarvagyachaturvedi.vercel.app/)**
 
